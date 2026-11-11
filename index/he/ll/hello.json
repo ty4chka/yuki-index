@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "kind": "app",
+  "summary": "prints hello",
+  "license": "MIT",
+  "seq": 1,
+  "expires": 1802160257,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "yanked": false,
+      "bin": {
+        "linux-aarch64": {
+          "url": "https://github.com/ty4chka/yuki-index/releases/download/hello-1.0.0/hello-1.0.0-linux-aarch64.tar.zst",
+          "checksum": "blake3:f16fa4db297fd045eccbc9957c29bc56db62e45e79077350cefac131359a616a"
+        }
+      },
+      "targets": [
+        "linux-aarch64"
+      ]
+    }
+  ],
+  "content_sigs": [
+    {
+      "key": "dd60a1343f71e8fde3f67b09bc24056900240e0c6a2561036bf2261cce0cb256",
+      "sig": "83cf947fd369711bba645772237ad40f741821bda5689a6e9ab3338ff3a4487197768d183541796ed5cc31ca7e39062e22ca57e44c8796f2ade22950c196890e"
+    }
+  ]
+}
