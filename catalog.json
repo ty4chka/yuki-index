@@ -1,11 +1,11 @@
 {
-  "seq": 4,
-  "expires": 1803575706,
+  "seq": 5,
+  "expires": 1803575919,
   "packages": [
     {
       "name": "hello",
       "kind": "app",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "summary": "prints hello",
       "license": "MIT",
       "homepage": "",
