@@ -3,8 +3,8 @@
   "kind": "app",
   "summary": "prints hello",
   "license": "MIT",
-  "seq": 3,
-  "expires": 1803575706,
+  "seq": 4,
+  "expires": 1803575919,
   "versions": [
     {
       "version": "1.0.0",
@@ -44,12 +44,25 @@
       "targets": [
         "linux-x86_64"
       ]
+    },
+    {
+      "version": "1.0.4",
+      "yanked": false,
+      "bin": {
+        "linux-x86_64": {
+          "url": "https://github.com/ty4chka/yuki-index/releases/download/hello-1.0.3/hello-1.0.3-linux-x86_64.tar.zst",
+          "checksum": "blake3:110e5cf81306fb25845a8c596514b72bf0e19d2fee519a1ce7fb034403ec847d"
+        }
+      },
+      "targets": [
+        "linux-x86_64"
+      ]
     }
   ],
   "content_sigs": [
     {
       "key": "979467c2b274931fb485b4c9b27bca4f62dbafd42a2e3dbd403354a1beff5291",
-      "sig": "204195fd561282de5cea6abd94a446fb53fdc2cd3bad4d21a9ef520461b9b0cd5d872424e6a505148201b9cc4983a76c393d7029ada0532ab255a2dd50eff00d"
+      "sig": "080f5fe97fdd6ebbe904037e29b2f37171520511ed3f0f765e6643d911863936572d4b281395e6ab62d40abbf0f59e7dd526d492c67d9722a64fecd3fa4ce307"
     }
   ]
 }
